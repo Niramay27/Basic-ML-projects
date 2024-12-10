@@ -1,6 +1,6 @@
 # Basic-ML-projects
 
-Welcome to the Basic ML Projects repository! This collection features several fundamental machine learning projects designed to demonstrate various algorithms and techniques. These projects serve as educational resources and practical examples for those learning machine learning.
+Welcome to the Basic ML Projects repository! This collection features two fundamental machine learning projects designed to demonstrate various algorithms and techniques. These projects serve as educational resources and practical examples for those learning machine learning.
 
 Projects Included:
 
